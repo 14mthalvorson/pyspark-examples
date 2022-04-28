@@ -1,0 +1,11 @@
+adam bill charlie delta
+echo
+foxtrot
+grant hector
+igloo
+jack
+kid
+lovely
+martin
+bill igloo martin
+martin

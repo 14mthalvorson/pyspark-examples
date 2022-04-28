@@ -4,6 +4,7 @@ Running through some pyspark examples for my own learning. Many are adapted from
 
 ### Examples
 - count_words: counts words in a text file
+- sort_numbers: sort numbers from a text file
 - calculate_pi: demonstrates a highly parallel method of calculating pi
 
 

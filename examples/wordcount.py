@@ -1,7 +1,6 @@
 """
 Counts the number of instances of each word in names.txt
 Adapted from the examples list in pyspark github repo
-
 """
 
 from operator import add
